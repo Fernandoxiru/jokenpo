@@ -1,7 +1,7 @@
 # AppJokenpô
 
 ## 📱 Descrição
-O #AppJokenpô# permite ao usuário jogar o jogo Jokenpô, possuindo um placar e um botão de reiniciar.
+O *AppJokenpô* permite ao usuário jogar o jogo Jokenpô, possuindo um placar e um botão de reiniciar.
 
 ## 🔧 Funcionalidades
 - [X] Entrada de dados(pedra, papel e tesoura)
